@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+.container{
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+    grid-auto-rows: 70px;
+}
